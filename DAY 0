@@ -7,19 +7,15 @@
 ✔ Mock Interviews
 
 ⏱️ Time Table
-Time	Task	Duration
-7:00 PM – 8:00 PM	DSA – GFG (Learn pattern + 1 problem)	1 hr
-8:00 PM – 9:00 PM	Break / Dinner ✅	1 hr
-9:00 PM – 11:00 PM	DSA – GFG + LeetCode (2–3 problems total)	2 hrs
-11:00 PM – 12:00 AM	SQL (1–2 queries + notes)	1 hr
-12:00 AM – 2:00 AM	Interview Theory (CN/DBMS/Java/Python/JS)	2 hrs
-2:00 AM – 3:00 AM	Mock Interview Practice	1 hr
-✅ Daily Goals
-Task	Minimum
-DSA	3 problems
-SQL	1–2 queries
-Interview Study	2 hours
-Mock Interview	1 hour
+✅ Daily Study Plan (7 Hours)
+Time	Task
+7:00 PM – 8:00 PM	DSA Pattern Learning + 1 Problem (GFG)
+8:00 PM – 9:00 PM	Dinner / Break
+9:00 PM – 10:00 PM	LeetCode – 1 Medium problem (same pattern)
+10:00 PM – 11:00 PM	Service-based Previous Year Q (1 Q daily)
+11:00 PM – 12:00 AM	SQL Practice – 1 to 2 questions
+12:00 AM – 2:00 AM	Interview Theory (CN / DBMS / OS / Java / Python / OOPs)
+2:00 AM – 3:00 AM	Mock Interview / Timed Coding / Self-Review
 ✅ Weekly Pattern Roadmap
 
 Week 1 — Arrays + HashMaps
