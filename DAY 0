@@ -52,3 +52,65 @@ Pattern: Arrays + HashMaps
 🔥 You will be interview-ready
 🔥 You will have confidence
 🔥 You will crack service-based companies easily
+
+https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions ""GREEKS FOR GREEKS"
+
+
+
+LEETCODE
+
+✅ Tier-1 Patterns for Service-Based Companies
+(LeetCode Problem Lists – Official Collections)
+1️⃣ Arrays + Hash Maps
+
+Problems where we use HashMap to track counts, indices, frequencies
+🔗 https://leetcode.com/problem-list/hash-table/
+
+2️⃣ Two Pointers
+
+Used for sorted arrays, opposite ends, remove duplicates, etc.
+🔗 https://leetcode.com/problem-list/two-pointers/
+
+3️⃣ Fast & Slow Pointer (Linked List cycle type)
+
+“Runner technique” used in cycle detection and mid finding
+🔗 https://leetcode.com/problem-list/linked-list/
+
+(Inside this list → apply filter “Easy + Medium” and pick cycle/middle related problems)
+
+4️⃣ Sliding Window
+
+Problems related to subarray/substrings window resizing
+🔗 https://leetcode.com/problem-list/sliding-window/
+
+5️⃣ Stacks & Queues
+
+Next Greater Element, Valid Parentheses, Monotonic stack etc.
+🔗 Stack → https://leetcode.com/problem-list/stack/
+
+🔗 Queue → https://leetcode.com/problem-list/queue/
+
+6️⃣ Modified Binary Search
+
+Binary Search on answer / rotated array / peak mountain
+🔗 https://leetcode.com/problem-list/binary-search/
+
+7️⃣ Greedy Techniques
+
+Best choice at each step → scheduling/interval problems
+🔗 https://leetcode.com/problem-list/greedy/
+
+8️⃣ Heaps (Top-K / Priority Queue)
+
+Priority Queue / Heap based problems
+🔗 https://leetcode.com/problem-list/heap-priority-queue/
+
+9️⃣ Sorting
+
+Custom sorting + two pointer mixing + frequency sort
+🔗 https://leetcode.com/problem-list/sorting/
+
+🔟 Merge Intervals
+
+Super important for interviews ✅
+🔗 https://leetcode.com/problem-list/intervals/
